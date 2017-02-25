@@ -1,0 +1,7 @@
+iiit_test.configuration:
+  path: '/test'
+  defaults:
+    _form: 'Drupal\iiit_test\Form\TestForm'
+    _title: 'Test Page'
+  requirements:
+    _permission: 'access content'

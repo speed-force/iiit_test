@@ -1,0 +1,5 @@
+name: IIIT Test
+description: IIIT Test.
+type: module
+package: IIIT
+core: '8.x'
